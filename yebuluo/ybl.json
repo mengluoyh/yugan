@@ -179,7 +179,7 @@
             "name": "┃取经┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./yebuluo/XYQ.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
                 "数组": "<div id=\"ajax-fax\">&&</div>",
                 "链接": "href=\"&&\"",
