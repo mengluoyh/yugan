@@ -181,7 +181,7 @@
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
-                "数组": "<div id=\"ajax-fax\">&&</div>",
+                "数组": "<div class=\"featured-content-image\">&&</div>",
                 "链接": "href=\"&&\"",
                 "标题": "title=\"&&\"",
                 "分类url": "https://www.1111modruba.cc/index.php/vodtype/{cateId}-{catePg}.html;;akm0",
