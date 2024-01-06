@@ -90,6 +90,24 @@
             ]
         },
         {
+            "key": "速看资源",
+            "name": "┃速看┃采集",
+            "type": 1,
+            "api": "https://ziyuan.skm3u8.com/api.php/sea/provide/vod",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产偷拍",
+                "日韩精品",
+                "欧美高清",
+                "中文字幕",
+                "成人动漫",
+                "麻豆传媒",
+                "台湾swag",
+                "福利姬"
+            ]
+        },
+        {
             "key": "皇冠资源",
             "name": "皇冠资源",
             "type": 1,
