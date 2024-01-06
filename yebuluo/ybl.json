@@ -1,5 +1,5 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://usercontent.githubfast.com/raw/mengluoyh/yugan/main/yebuluo/spider.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/spider.jar",
     "sites": [
         {
             "key": "奥斯卡资源",
@@ -179,7 +179,7 @@
             "name": "┃取经┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://usercontent.githubfast.com/raw/mengluoyh/yugan/main/yebuluo/XYQ.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
                 "分类url": "https://www.1111modruba.cc/index.php/vodtype/{cateId}-{catePg}.html;;akm0",
                 "分类": "麻豆视频$161#91制片厂$162#天美传媒$163#蜜桃传媒$164#皇家华人$165#星空传媒$166#精东影业$167#乐播传媒$168#91茄子$169#性视界传媒$170#兔子先生$171#杏吧原创$172#起点传媒$174#SA国际传媒$175#草莓猛料$176#PsychoPorn$177#糖心$178#葫芦影业$179#果冻传媒$180"
@@ -190,7 +190,7 @@
         {
             "name": "直播",
             "type": 1,
-            "url": "https://ghproxy.net/https://usercontent.githubfast.com/raw/mengluoyh/yugan/main/TV/yelive.txt"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/mengluoyh/yugan/main/TV/yelive.txt"
         }
     ],
     "parses": [
