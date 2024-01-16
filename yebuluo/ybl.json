@@ -91,7 +91,7 @@
         },
         {
             "key": "色猫资源",
-            "name": "色猫资源",
+            "name": "┃色猫┃采集",
             "type": 0,
             "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
             "searchable": 1,
@@ -139,7 +139,7 @@
         },
         {
             "key": "皇冠资源",
-            "name": "皇冠资源",
+            "name": "┃皇冠┃采集",
             "type": 1,
             "api": "https://hghhh.com/api.php/provide/vod/",
             "searchable": 1,
@@ -173,7 +173,7 @@
         },
         {
             "key": "色猫资源",
-            "name": "色猫资源",
+            "name": "┃猫资源┃采集",
             "type": 1,
             "api": "https://api.maozyapi.com/inc/apijson_vod.php",
             "searchable": 1,
@@ -207,7 +207,7 @@
         },
         {
             "key": "美少女资源",
-            "name": "美少女资源",
+            "name": "┃美少女┃采集",
             "type": 0,
             "api": "https://www.msnii.com/api/xml.php",
             "searchable": 1,
@@ -240,7 +240,7 @@
         },
         {
             "key": "鲨鱼资源",
-            "name": "鲨鱼资源",
+            "name": "┃鲨鱼┃采集",
             "type": 0,
             "api": "https://sybyapi.com/api.php/Seacms/vod",
             "searchable": 1,
@@ -279,7 +279,7 @@
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
-                "数组": "<div class=\"col-md-3 col-sm-6 col-xs-6\">&&</div>",
+        //        "数组": "<div class=\"col-md-3 col-sm-6 col-xs-6\">&&</div>",
                 "链接": "href=\"&&\"",
                 "标题": "alt=\"&&\"",
                 "图片": "src=\"&&\"",
