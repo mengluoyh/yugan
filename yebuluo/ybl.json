@@ -262,7 +262,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
-            "ext": "./json/麻豆映画.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/json/麻豆映画.json"
         },
         {
             "key": "csp_麻豆女优.",
@@ -270,7 +270,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
-            "ext": "./json/麻豆女优.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/json/麻豆女优.json"
         },
         {
             "key": "csp_满妹视频",
