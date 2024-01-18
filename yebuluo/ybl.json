@@ -261,14 +261,11 @@
             "name": "麻豆映画",
             "type": 3,
             "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
-            "ext": {
-                "数组": "<div class=\"col-sm-4\">&&</div>",
-                "分类url": "https://www.madoupj.com/index.php/&m=vodtype/{cateId}/page/{catePg}.html",
-                "分类": "麻豆原创$mdapp1#原创伙伴$mdapp2#节目企划$mdapp3#免费视频区$mdapp72",
-                "免嗅": "0",
-                "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
-            }
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/json/麻豆映画.json"
         },
         {
             "key": "csp_6se",
