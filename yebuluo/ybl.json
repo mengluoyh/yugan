@@ -322,19 +322,19 @@
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
-       //         "数组": "<li>&&</li>",
-                "链接": "href=\"&&\"",
+                "数组": "<div>&&</div>",
+             //   "链接": "href=\"&&\"",
                 "标题": "title=\"&&\"",
-            //    "图片": "data-original=\"&&\"",
+                "图片": "data-src=\"&&\"",
             //    "播放数组": "<script &&</script>",
               //  "播放链接": "src=\"&&\"",
-               // "线路标题": "<h3 &&</h3>",
+                "标题": ">&&<",
                 "直接播放": "1",
                 "免嗅": "0",
                 "嗅探词": ".mp4#.m3u8#.flv",
                 "过滤词": ".html#=http",
                 "分类url": "https://kb08.xxxooav7vv582.xyz/t/{cateId}-{catePg}/;;akm0",
-                "分类": "传媒系列$200#探花系列$500#国产$20#日本无码$22#网红黑料$600#女优$400#番号$300"
+                "分类": "传媒系列$200#探花系列$500#国产$20#日本无码$22#网红黑料$600#女优$400#番号$300#动漫精品$103"
             }
         }
     ],
