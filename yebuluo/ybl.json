@@ -314,6 +314,28 @@
                 "分类url": "http://www.okzy.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;akm0",
                 "分类": "麻豆精品$1#日本精品$2#国产精品$5#欧美精品$3#动漫精品$4"
             }
+        },
+        {
+            "key": "csp_xxoo",
+            "name": "xxoo",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
+            "ext": {
+       //         "数组": "<li>&&</li>",
+                "链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+            //    "图片": "data-original=\"&&\"",
+            //    "播放数组": "<script &&</script>",
+              //  "播放链接": "src=\"&&\"",
+               // "线路标题": "<h3 &&</h3>",
+                "直接播放": "1",
+                "免嗅": "0",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                "过滤词": ".html#=http",
+                "分类url": "https://kb08.xxxooav7vv582.xyz/t/{cateId}-{catePg}/;;akm0",
+                "分类": "传媒系列$200#探花系列$500#国产$20#日本无码$22#网红黑料$600#女优$400#番号$300"
+            }
         }
     ],
     "lives": [
