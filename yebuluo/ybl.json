@@ -265,7 +265,33 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/json/麻豆映画.json"
+            "ext": {
+                "name": "麻豆映画",
+                "url": "https://www.madoupj.com/",
+                "直接播放": "1",
+                "分类": "麻豆原创$mdapp1#原创伙伴$mdapp2#节目企划$mdapp3#免费视频区$mdapp72",
+                "数组": "<div class=\"archive-avatar\">&&</div>",
+                "图片": "img src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"/index.php/&m=voddetail/&&.html\"",
+                "链接前缀": "/index.php/&m=vodplay/",
+                "链接后缀": "-1-1.html",
+                "搜索数组": "<div class=\"col-sm-4\">&&</div>",
+                "搜索图片": "img src=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索模式": "0",
+                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+                "搜索后缀": "/index.php/&m=vodplay/",
+                "搜索链接后缀": "-1-1.html",
+                "影片类型": "<div class=\"category\">&&<h1",
+                "导演": "导演：</span>&&</p>",
+                "主演": "主演：</span>&&</p>",
+                "简介": "<h1&&</h1>",
+                "分类url": "https://www.madoupj.com/index.php/&m=vodtype/{cateId}/page/{catePg}.html",
+                "免嗅": "0",
+                "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
+            }
         },
         {
             "key": "csp_OK资源",
@@ -274,27 +300,15 @@
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
-                "播放数组": "<td id=\"playleft\" >&&</td>",
+                "数组": "<li>&&</li>",
                 "链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
                 "免嗅": "1",
                 "嗅探词": ".mp4#.m3u8#.flv",
                 "过滤词": ".html#=http",
                 "分类url": "http://www.okzy.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;akm0",
                 "分类": "麻豆精品$1#日本精品$2#国产精品$5#欧美精品$3#动漫精品$4"
-            }
-        },
-        {
-            "key": "csp_吃瓜天堂",
-            "name": "吃瓜天堂",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
-            "ext": {
-                "免嗅": "1",
-                "嗅探词": ".mp4#.m3u8#.flv",
-                "过滤词": ".html#=http",
-                "分类url": "https://h2ghz1.ixmrx.com/category/{class}/{catePg}/;;akm0",
-                "分类": "新瓜优品$jrxw1#热瓜精选$jrcg#瓜友亲历$gysp#网红明星$ylgx#两性禁果$lpzq#反差揭秘$fcsj#奇葩课堂$nhdz"
             }
         }
     ],
