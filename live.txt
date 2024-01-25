@@ -2,12 +2,12 @@
 
 央视,#genre#
 
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
-cctv1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://58.19.38.233:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://hrare.gnway.cc/tv/ysp.php?id=cctv1
 CCTV1,http://183.134.3.22:8888/newlive/live/hls/2/live.m3u8
@@ -178,7 +178,7 @@ CCTV14,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f
 
 
 CCTV15,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV15_2m_f7f7c988016a49c28034a4e6e8728116-25557_video_1-001.mp4\CCTV15,http://218.13.170.98:9901/tsfile/live/0015_1.m3u8
+CCTV15_2m_f7f7c988016a49c28034a4e6e8728116-25557_video_1-001.mp4CCTV15,http://218.13.170.98:9901/tsfile/live/0015_1.m3u8
 CCTV15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV15,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV15,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/aefabb5259-0-0-65038e86b205c58b18c0c661afd99fae/index.m3u8
@@ -211,12 +211,20 @@ CCTV17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 
 卫视,#genre#
 
-湖南卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
-湖南卫视,http://adposter.tv/sxg.php?id=hnwsH265_4000
-湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000032695/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
-湖南卫视,http://183.237.231.139:9901/tsfile/live/1066_1.m3u8
+湖南卫视,http://202308091300.iptv.hongruida.work:8800/tsfile/live/0128_1.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视,http://111.8.242.84:9901/tsfile/live/0128_1.m3u8
+湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 湖南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+湖南卫视(4K),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视高清,http://117.174.81.63:50080/newlive/live/hls/19/live.m3u8
+湖南卫视高清,http://lhq-cctv.8866.org:18181/tsfile/live/faacts/1047_1.m3u8
+湖南卫视(1080p),http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
+湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
+湖南卫视,http://121.19.134.245:808/tsfile/live/1010_1.m3u8
+湖南卫视,http://hrare.gnway.cc/tv/ysp.php?id=hunws
 
 
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
