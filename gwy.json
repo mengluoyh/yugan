@@ -407,7 +407,7 @@
             "api": "csp_XBPQ",
             "jar": "https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
-                "数组": "<li>&&</li>",
+                "数组": "<div&&</div>",
                 "链接": "href=\"&&\"",
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
