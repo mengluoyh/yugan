@@ -407,7 +407,7 @@
             "api": "csp_XBPQ",
             "jar": "https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
             "ext": {
-                "数组": "<div&&</div>",
+                "数组": "<li&&</li>",
                 "链接": "href=\"&&\"",
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
@@ -415,7 +415,7 @@
                 "免嗅": "0",
                 "嗅探词": ".mp4#.m3u8#.flv",
                 "过滤词": ".html#=http",
-                "分类url": "http://www.okzy.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类url": "http://www.66sex.tv/index.php/vod/type/id/{cateId}/page/{catePg}.html",
                 "分类": "麻豆精品$1#日本精品$2#国产精品$5#欧美精品$3#动漫精品$4"
             }
         }
