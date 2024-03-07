@@ -1728,7 +1728,10 @@ YY恐怖电影,http://mmitv.top/pltv/yy.php?id=24066336
 
 
 电影解说,#genre#
-阿苏电影解说,http://epg.112114.xyz/douyu/9037784
+牛叔解说,http://epg.112114.xyz/douyu/2758565
+小片片,http://epg.112114.xyz/douyu/4258555
+鬼兄奇谈,http://epg.112114.xyz/douyu/8722254
+美剧解说http://epg.112114.xyz/douyu/9123570
 布尔玛科幻解说,http://epg.112114.xyz/douyu/3508304
 火龙果说电影,http://epg.112114.xyz/douyu/9559158
 浩贤解说,http://epg.112114.xyz/douyu/10535867
