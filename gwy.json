@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
+    "spider": "./yebuluo/XYQ.jar",
     "sites": [
         {
             "key": "奥斯卡资源",
@@ -401,11 +401,28 @@
             ]
         },
         {
+            "key": "csp_麻豆映画",
+            "name": "麻豆映画",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./yebuluo/XYQ.jar",
+            "ext": {
+                "数组": "<div class=\"col-sm-4\">&&</div>",
+                "播放数组": "<div class=\"single-audio\">&&</div>",
+                "播放列表": "<a&&</a>",
+                "播放标题": "title=\"&&\"",
+                "分类url": "https://www.madoupj.com/index.php/&m=vodtype/{cateId}/page/{catePg}.html;;akm0",
+                "分类": "杏吧专区$mdapp9#辣椒原创$mdapp79#兔子先生$mdapp10#O-STAR$mdapp80#果冻传媒$mdapp11#91制片厂$mdapp51#皇家华人$mdapp12#天美传媒$mdapp45#吴梦梦专区$mdapp13#PsychoPorn色控$mdapp14#叮叮映画$mdapp70#涩会$mdapp71#红斯灯影像$mdapp102#麻麻传媒$mdapp103#蝌蚪传媒$mdapp104#Pussy Hunter$mdapp105#瑷荳传媒$mdapp106#桃花源$mdapp107#蜜桃影像传媒$mdapp15#豚豚创媒$mdapp74#宫美娱乐$mdapp84#肉肉传媒$mdapp90#爱妃传媒$mdapp75#渡边传媒$mdapp94#葵心娱乐$mdapp96#YOKUBOU$mdapp97#大番号番啪啪$mdapp16#REAL野性派$mdapp29#MD系列$mdapp4#导演系列$mdapp5#MDS系列$mdapp6#MDX系列$mdapp7#MKY系列$mdapp86#MCY系列$mdapp95#MDXS系列$mdapp8#MDL系列$mdapp46#MMZ猫爪系列$mdapp50#MAD爱豆系列$mdapp52#MDWP职场淫行系列$mdapp57#MLT乐天系列$mdapp62#MSD系列$mdapp63#MSM性梦者$mdapp64#MDM恋爱咖啡馆$mdapp73#BLX系列$mdapp113#MPG系列$mdapp114#MDUS系列$mdapp77#MXJ系列$mdapp78#MSG系列$mdapp85#MAN系列$mdapp88#MDAG系列$mdapp99#MDHT系列$mdapp100#麻豆不回家$mdapp41#狼人插$mdapp53#女优擂台摔角狂热$mdapp54#恋爱巴士$mdapp60#男女优生死斗$mdapp65#情人劫密室逃脱$mdapp66#换妻$mdapp67#你好同学$mdapp68#鲍鱼的胜利$mdapp83#性爱自修室$mdapp87#春游记$mdapp91#心动的性号$mdapp92#情趣大富翁$mdapp93#男优练习生$mdapp101#麻豆高校$mdapp110#大鸟十八$mdapp17#疯拍系列$mdapp18#创造淫2021$mdapp55#禁欲小屋$mdapp76#KISS糖果屋$mdapp19#小鹏奇啪行$mdapp20#男优出征趣$mdapp21#麻豆达人秀$mdapp69#30天解密麻豆$mdapp22#突袭女优计划$mdapp23#女神羞羞研究院$mdapp24#淫欲游戏王$mdapp40#女优淫娃培训营$mdapp42#情趣K歌房$mdapp31#小哥哥艾理$mdapp27#寻宝吧女神$mdapp98#糖心$mdapp72#CCAV成人头条$mdapp89#精东影业$mdapp34#星空无限传媒$mdapp47#乐播传媒$mdapp48#开心鬼传媒$mdapp56#葫芦影业$mdapp81#深夜保健室$mdapp35#大象传媒$mdapp58#天马传媒$mdapp82#SWAG$mdapp36#HongKongDoll$mdapp59#国产短视频$mdapp38#北京天使$mdapp39#MINI传媒$mdapp61",
+                "免嗅": "0",
+                "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
+            }
+        },
+        {
             "key": "csp_OK资源",
             "name": "OK资源",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/mengluoyh/yugan/main/yebuluo/XYQ.jar",
+            "jar": "./yebuluo/XYQ.jar",
             "ext": {
                 "数组": "<li&&</li>",
                 "链接": "href=\"&&\"",
@@ -424,7 +441,7 @@
         {
             "name": "直播",
             "type": 1,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/mengluoyh/yugan/main/TV/yelive.txt"
+            "url": "./TV/yelive.txt"
         }
     ],
     "parses": [
